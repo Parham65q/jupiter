@@ -1,0 +1,17 @@
+{
+    "name": "JUPITERRIDER",
+    "symbol": "JUPR",
+    "decimals": 9,
+    "mint": "5BVFZiYkMyeUtkRQfJWpNDv86Cp1GehmFVahfow4wsSz",
+    "supply": 2000000,
+    "description": "Jupiter Riders is not just another meme coin—it's a cosmic adventure waiting to unfold! 🌌 Imagine riding the waves of Jupiter’s stormy atmosphere with a community of passionate explorers who aren’t afraid to aim for the stars. Fueled by humor, creativity, and the spirit of the unknown, Jupiter Riders offers a lighthearted yet exhilarating ride through the crypto universe. Get ready to blast off with us! Whether you're a seasoned crypto astronaut or a curious newcomer, Jupiter Riders promises a fun-filled journey to new heights. Buckle up, because in this crew, every moonshot counts.",
+    "image": "https://imgur.com/a/gSKCnyI",
+    "website": "https://dogefuncoin.com",
+    "socials": {
+      "twitter": "https://twitter.com/dogefuncoin",
+      "discord": "https://discord.gg/dogefun"
+    },
+    "explorer": "https://solscan.io/token/Hhvxev9qXMtGws1c2hhmWLVHRFf7ttG6nE3wqZpkB5TR",
+    "tags": ["meme", "community", "Solana"]
+  }
+  
